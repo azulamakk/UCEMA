@@ -40,7 +40,7 @@ Trabajo práctico realizado para la materia ORGANIZACION DE LOS SISTEMAS DE INFO
   1. **Clonar el repositorio**
   ```bash
   git clone https://github.com/azulamakk/UCEMA
-  cd rural-services-marketplace
+  cd UCEMA
    ```
 
 2. **Construir e iniciar los servicios**
