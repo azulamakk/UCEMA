@@ -39,7 +39,7 @@ Trabajo práctico realizado para la materia ORGANIZACION DE LOS SISTEMAS DE INFO
 ### Instalación y Configuración
   1. **Clonar el repositorio**
   ```bash
-  git clone <url-del-repositorio>
+  git clone https://github.com/azulamakk/UCEMA
   cd rural-services-marketplace
    ```
 
